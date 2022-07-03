@@ -1,0 +1,1 @@
+setTimeout(() => {document.getElementById('showcase-text').classList.remove('invisible'); document.getElementById('showcase-text').classList.add('elementToFadeIn')}, 7000);
